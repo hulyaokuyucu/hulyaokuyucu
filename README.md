@@ -1,27 +1,72 @@
-# Hi, I'm Hülya Okuyucu! 👋
+# 👋 Hello, I'm Hülya Okuyucu!
 
-### Computer Programming Student | Web Designer
+### 💻 Computer Programming | Web Design | Software Development
 
 Welcome to my GitHub profile!
 
-I am a Computer Programming student interested in web design, front-end development, and software technologies.
+I am a Computer Programming student passionate about technology, software development, and creating modern digital experiences.
 
-### 💻 Technical Skills
+I enjoy learning new technologies, developing creative projects, and improving my technical skills.
+
+---
+
+### 👩‍💻 About Me
+
+* 🎓 Computer Programming Student
+* 🌐 Interested in Web Design and Front-End Development
+* 💡 Passionate about technology and innovation
+* 🚀 Focused on continuous learning and professional development
+* 🎨 Interested in creative and user-friendly interface design
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+
+* Python
+* C#
+* SQL
+
+**Web Technologies**
 
 * HTML5
 * CSS3
-* Python
-* SQL
-* C#
 
-### 🚀 Projects
+**Tools & Software**
 
-* **KIKO Beauty:** A beauty and cosmetics website developed using HTML and CSS.
+* Visual Studio Code
+* GitHub
+* Microsoft Office
 
-### 🎯 Career Goals
+### 📚 Currently Learning
 
-I aim to improve my software development skills, gain professional experience, and contribute to innovative projects.
+* Advanced HTML & CSS
+* Database Management
 
-### 📫 Contact
+### 🚀 Featured Projects
 
-Feel free to connect with me!
+**KIKO Beauty**
+A modern beauty and cosmetics website developed using HTML5 and CSS3..
+
+### 🎯 Areas of Interest
+
+* Web Design
+* User Interface (UI) Design
+* Database Management
+* Artificial Intelligence
+* Machine Learning
+
+### 🌱 Career Goals
+
+My goal is to become a skilled software professional, gain industry experience, and contribute to innovative technology projects.
+
+I believe in continuous learning, creativity, and developing solutions through technology.
+
+### 📫 Connect With Me
+
+* GitHub: [My GitHub Profile](https://github.com/hulyaokuyucu)
+* LinkedIn: Hülya okuyucu
+* Email: hulyaokuyucu68@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!

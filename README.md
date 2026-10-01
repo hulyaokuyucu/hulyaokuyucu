@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Hülya Okuyucu! 👋
 
-<!--
-**hulyaokuyucu/hulyaokuyucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Programming Student | Web Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Programming student interested in web design, front-end development, and software technologies.
+
+### 💻 Technical Skills
+
+* HTML5
+* CSS3
+* Python
+* SQL
+* C#
+
+### 🚀 Projects
+
+* **KIKO Beauty:** A beauty and cosmetics website developed using HTML and CSS.
+
+### 🎯 Career Goals
+
+I aim to improve my software development skills, gain professional experience, and contribute to innovative projects.
+
+### 📫 Contact
+
+Feel free to connect with me!

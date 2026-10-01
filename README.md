@@ -33,6 +33,7 @@ I enjoy learning new technologies, developing creative projects, and improving m
 
 **Tools & Software**
 
+* Adobe Dreamweaver
 * Visual Studio Code
 * GitHub
 * Microsoft Office

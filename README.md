@@ -13,7 +13,7 @@ I enjoy learning new technologies, developing creative projects, and improving m
 ### 👩‍💻 About Me
 
 * 🎓 Computer Programming Student
-* 🌐 Interested in Web Design and Front-End Development
+* 🌐 Interested in Web Design 
 * 💡 Passionate about technology and innovation
 * 🚀 Focused on continuous learning and professional development
 * 🎨 Interested in creative and user-friendly interface design
